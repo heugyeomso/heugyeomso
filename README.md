@@ -6,6 +6,6 @@
 
 
 <p align="center">
-<a href="https://rentry.co/heugyeomso">rentry</a> ︵︵ <a href="https://patreon.com/andruke?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">patreon</a>
+<a href="https://rentry.co/heugyeomso">rentry</a> ︵︵ <a href="https://patreon.com/kimsoleum?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">patreon</a>
 </p>
 
